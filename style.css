@@ -1,0 +1,25 @@
+body {
+   
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 300px;
+
+   
+
+}
+
+.clock {
+
+font-size: 5rem;
+font-weight: bold;
+
+
+}
+
+#time {
+
+    display: flex;
+    padding: 15px;
+    background-color: rgb(66, 63, 63);
+}
